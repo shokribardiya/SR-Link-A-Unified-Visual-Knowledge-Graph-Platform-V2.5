@@ -1,3 +1,4 @@
+<img width="2048" height="768" alt="hero-wave-dark" src="https://github.com/user-attachments/assets/d70e80f6-15e2-40b3-8a48-c0a02b1a8a71" />
 # SR-Link-A-Unified-Visual-Knowledge-Graph-Platform-V2.5
 SR Link: A Unified Visual Knowledge Graph Platform for Intelligent Data Integration, Relationship Discovery, and Interactive Information Analysis. Bardiya Shokri
 
